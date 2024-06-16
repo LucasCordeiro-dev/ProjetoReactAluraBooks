@@ -18,7 +18,7 @@
 
 ## Instruções de Instalação
 ### Pré-requisitos
-- Conhecimentos Básicos:
+### Conhecimentos Básicos:
 - HTML e CSS: Conhecimento sólido em HTML e CSS é fundamental, pois React é usado para construir interfaces de usuário.
 - JavaScript (ES6+): Compreensão das funcionalidades modernas do JavaScript, incluindo arrow functions, destructuring, promises, async/await, e módulos.
 - Fundamentos de Programação: Conceitos básicos como loops, condicionais, funções, arrays, objetos, e manipulação do DOM.
@@ -33,7 +33,7 @@
 
 ### Passos de Instalação
 1. Passo : Instalar Node.js e npm/yarn: Baixar e instalar Node.js do site oficial, que vem com npm. Yarn pode ser instalado separadamente se preferido.
-2. Passo : Configurar Editor de Código: Instalar extensões úteis no editor de código.
+2. Passo : Configurar/ instalar Editor de Código: Instalar extensões úteis no editor de código.
 3. Passo : Criar um Projeto com Create React App. Utilizar Create React App para configurar rapidamente um ambiente de desenvolvimento React com todas as ferramentas necessárias prontas para uso.Abaixo o código para se utilizar no bash para criar seu primeiro proeto em React.
    - npx create-react-app nome-do-projeto
    - cd nome-do-projeto
